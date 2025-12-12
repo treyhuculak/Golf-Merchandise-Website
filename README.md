@@ -1,5 +1,7 @@
 # The Pro Shop - E-Commerce Platform
 
+[Submission file with Walkthrough of the Website](https://github.com/treyhuculak/Golf-Merchandise-Website/blob/main/TheProShop.pdf)
+
 ## Project Overview
 
 The Pro Shop is a full-featured e-commerce web application built with Java technologies. This project demonstrates expertise in developing database-driven web applications with modern architecture patterns, including user authentication, product management, shopping cart functionality, and order processing. The application is containerized for easy deployment and scalability.
